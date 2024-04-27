@@ -56,9 +56,8 @@
             "sources" : [
                 {
                     "type" : "git",
-                    "url" : "https://gitlab.com/gregorni/Calligraphy.git",
-                    "tag" : "1.0.0",
-                    "commit" : "f3043c3c3c00e638f8b6b76f3b1e05d0cf814987"
+                    "url" : "https://gitlab.gnome.org/World/Calligraphy.git",
+                    "commit" : "a68c953e6832c65ac9f577a4d82457137e5c48b9"
                 }
             ]
         }
